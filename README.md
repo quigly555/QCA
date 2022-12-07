@@ -11,6 +11,9 @@ Otherwise, there should not be any additional requirements. Everything required 
 ## Installation Instructions:
 Simply download and extract the Current Version archive, then run the QCA_Installer executable.
 
+## Citation Instructions:
+If using this script, please cite https://pubmed.ncbi.nlm.nih.gov/29364243/
+
 ## Notes:
 If you find bugs or have feature suggestions let me know, I'm continually working on this program to make it better.
 
